@@ -1,0 +1,12 @@
+{
+  "name": "My testing",
+  "description": "A simple example to brand your Salesforce My Domain",
+  "repository": "https://github.com/muhdaniyal/TestingPlattss",
+  "website": "https://www.salesforce.com/platform/identity",
+  "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",  
+  "keywords": ["salesforce"],
+  "success_url": "/",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/muhdaniyal/TestingPlattss"
+  }
+}
